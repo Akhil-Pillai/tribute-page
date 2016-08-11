@@ -1,0 +1,22 @@
+img{
+  margin:auto;
+  width:30%;
+  height:auto;
+  display:block;
+}
+
+p{
+  margin-top:5%;
+}
+
+.page-header{
+  text-align:center;
+}
+
+.timeline{
+  font-size:1.4em;
+}
+
+a{
+  margin-left:30%;
+}
